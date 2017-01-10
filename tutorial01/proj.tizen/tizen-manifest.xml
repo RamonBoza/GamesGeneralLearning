@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3" package="org.ramonboza.games" version="1.0.0">
+    <ui-application appid="org.ramonboza.games" exec="hellocpp" multiple="false" nodisplay="false" taskmanage="true" type="capp">
+        <label>tutorial01</label>
+        <icon>tutorial01.png</icon>
+    </ui-application>
+</manifest>
